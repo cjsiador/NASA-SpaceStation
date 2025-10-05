@@ -1896,19 +1896,19 @@ PrefabInstance:
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: e47612b7b6e164bbea71ac4db14d882b, type: 3}
       insertIndex: -1
+      addedObject: {fileID: 1300418446}
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: e47612b7b6e164bbea71ac4db14d882b, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 998995255}
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: e47612b7b6e164bbea71ac4db14d882b, type: 3}
+      insertIndex: -1
       addedObject: {fileID: 1189009023}
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: e47612b7b6e164bbea71ac4db14d882b, type: 3}
       insertIndex: -1
       addedObject: {fileID: 361206118}
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: e47612b7b6e164bbea71ac4db14d882b, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 998995255}
-    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: e47612b7b6e164bbea71ac4db14d882b, type: 3}
-      insertIndex: -1
       addedObject: {fileID: 408398287}
-    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: e47612b7b6e164bbea71ac4db14d882b, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1300418446}
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: e47612b7b6e164bbea71ac4db14d882b, type: 3}
       insertIndex: -1
@@ -5774,7 +5774,7 @@ GameObject:
   m_Component:
   - component: {fileID: 998995255}
   m_Layer: 0
-  m_Name: SolarEclipse
+  m_Name: Eclipse
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
