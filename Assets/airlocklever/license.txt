@@ -1,0 +1,11 @@
+Model Information:
+* title:	Zoonomaly - Lever
+* source:	https://sketchfab.com/3d-models/zoonomaly-lever-b7afcae635ce4543a035d4290091b5c9
+* author:	Haggy the model ripper (https://sketchfab.com/ashrafmanir)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Zoonomaly - Lever" (https://sketchfab.com/3d-models/zoonomaly-lever-b7afcae635ce4543a035d4290091b5c9) by Haggy the model ripper (https://sketchfab.com/ashrafmanir) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

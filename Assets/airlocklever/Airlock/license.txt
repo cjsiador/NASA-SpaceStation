@@ -1,0 +1,11 @@
+Model Information:
+* title:	Airlock
+* source:	https://sketchfab.com/3d-models/airlock-a7541a95ac5f44fd867b1c75e95cb3d0
+* author:	JOMITH (https://sketchfab.com/JOMITH)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Airlock" (https://sketchfab.com/3d-models/airlock-a7541a95ac5f44fd867b1c75e95cb3d0) by JOMITH (https://sketchfab.com/JOMITH) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
