@@ -20,11 +20,10 @@ public class StarTransition : MonoBehaviour
         mat.SetVector("_NoiseScale", new Vector2(0f, 0f));
     }
 
-    void Update()
+    void OnTriggerEnter(Collider other)
     {
-        if (isEnabled)
+        if (other.tag == "Player")
         {
-            isEnabled = false;
             StartCoroutine(AnimateStarTransition());
         }
     }
