@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hexagon (no textures)
+* source:	https://sketchfab.com/3d-models/hexagon-no-textures-75a0b9e8c51b4ad98d0a9a74735409b0
+* author:	iamsosha (https://sketchfab.com/iamsosha)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hexagon (no textures)" (https://sketchfab.com/3d-models/hexagon-no-textures-75a0b9e8c51b4ad98d0a9a74735409b0) by iamsosha (https://sketchfab.com/iamsosha) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
