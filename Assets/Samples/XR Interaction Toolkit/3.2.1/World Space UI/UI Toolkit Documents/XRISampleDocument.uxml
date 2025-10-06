@@ -1,0 +1,14 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Samples/XR%20Interaction%20Toolkit/3.2.1/World%20Space%20UI/Styles/XRIStyleSheet.uss?fileID=7433441132597879392&amp;guid=3245a7d03283da54db4385c49204e816&amp;type=3#XRIStyleSheet" />
+    <engine:VisualElement picking-mode="Ignore" name="Container" style="flex-grow: 1; color: rgb(255, 255, 255); padding-left: 10px; padding-top: 10px; padding-right: 10px; padding-bottom: 10px; background-color: rgba(0, 0, 0, 0.75);">
+        <engine:Label text="Title" name="Title" style="-unity-text-align: upper-center; font-size: 14px; max-height: 30%;" />
+        <engine:VisualElement name="Spacer" style="flex-grow: 0; height: 10px;" />
+        <engine:VisualElement name="Body" style="flex-grow: 1; flex-direction: row; justify-content: space-between;">
+            <engine:Label text="Image" name="Img" style="-unity-text-align: upper-center; flex-direction: row; width: 45%; height: 100%; align-items: flex-start; font-size: 12px;" />
+            <engine:Label text="Description" name="Description" style="-unity-text-align: upper-center; flex-direction: row; width: 45%; height: 100%; flex-wrap: nowrap; flex-basis: auto; align-items: flex-start; justify-content: space-between; position: relative; white-space: pre; top: auto; left: auto; align-content: flex-end;" />
+        </engine:VisualElement>
+        <engine:VisualElement name="ExitContainer" style="flex-grow: 0; flex-direction: row; align-items: auto; justify-content: center; height: 10%;">
+            <engine:Button text="Exit" style="height: 10%; font-size: 14px; position: relative; max-height: 10%; min-height: auto; min-width: 150px;" />
+        </engine:VisualElement>
+    </engine:VisualElement>
+</engine:UXML>
