@@ -4,30 +4,17 @@ using TMPro;
 
 public class AnomalyUIManager : MonoBehaviour
 {
-    public static AnomalyUIManager Instance;
+    // public AnomalyIcon anomalyIcon;
 
     [Header("UI References")]
-    public GameObject panel;
     public TMP_Text titleText;
     public TMP_Text descriptionText;
     public Image anomalyImage;
 
-    void Awake()
+    public void UpdateAnomaly(AnomalyIcon data)
     {
-        Instance = this;
-        panel.SetActive(false);
-    }
-
-    public void ShowAnomaly(AnomalyDataStructure data)
-    {
-        titleText.text = data.anomalyName;
+        titleText.text = data.title;
         descriptionText.text = data.description;
-        anomalyImage.sprite = data.anomalyImage;
-        panel.SetActive(true);
-    }
-
-    public void ClosePanel()
-    {
-        panel.SetActive(false);
+        anomalyImage.sprite = data.anomalyImgs[0];
     }
 }

@@ -1,0 +1,226 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6721491558872106574
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 25386dedf0f214ffcb8c1057669dbc45, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.0013
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 25386dedf0f214ffcb8c1057669dbc45, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.0013
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 25386dedf0f214ffcb8c1057669dbc45, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.0013
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 25386dedf0f214ffcb8c1057669dbc45, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.00073
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 25386dedf0f214ffcb8c1057669dbc45, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.00923
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 25386dedf0f214ffcb8c1057669dbc45, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.00417
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 25386dedf0f214ffcb8c1057669dbc45, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.43802533
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 25386dedf0f214ffcb8c1057669dbc45, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.52574337
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 25386dedf0f214ffcb8c1057669dbc45, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.558041
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 25386dedf0f214ffcb8c1057669dbc45, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.4693805
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 25386dedf0f214ffcb8c1057669dbc45, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -79.881
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 25386dedf0f214ffcb8c1057669dbc45, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 178.475
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 25386dedf0f214ffcb8c1057669dbc45, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 87.863
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 25386dedf0f214ffcb8c1057669dbc45, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 25386dedf0f214ffcb8c1057669dbc45, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 25386dedf0f214ffcb8c1057669dbc45, type: 3}
+      propertyPath: m_Name
+      value: milton
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 25386dedf0f214ffcb8c1057669dbc45, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 25386dedf0f214ffcb8c1057669dbc45, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 823205695603416350}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 25386dedf0f214ffcb8c1057669dbc45, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 9092636659042864876}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 25386dedf0f214ffcb8c1057669dbc45, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4223096897661432800}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 25386dedf0f214ffcb8c1057669dbc45, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7440763490360349266}
+  m_SourcePrefab: {fileID: 100100000, guid: 25386dedf0f214ffcb8c1057669dbc45, type: 3}
+--- !u!1 &5874630309010930463 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 25386dedf0f214ffcb8c1057669dbc45, type: 3}
+  m_PrefabInstance: {fileID: 6721491558872106574}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &823205695603416350
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5874630309010930463}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 128
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 119
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1.7222418, y: 2.0394444, z: 1.1850969}
+  m_Center: {x: -0.03640925, y: -0.04550613, z: -0.5225659}
+--- !u!114 &9092636659042864876
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5874630309010930463}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a35f6cfbfba9b548aaa00d52cfe8a50, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.XR.Interaction.Toolkit::UnityEngine.XR.Interaction.Toolkit.Interactables.XRSimpleInteractable
+  m_InteractionManager: {fileID: 0}
+  m_Colliders:
+  - {fileID: 823205695603416350}
+  m_InteractionLayers:
+    m_Bits: 2
+  m_DistanceCalculationMode: 1
+  m_SelectMode: 0
+  m_FocusMode: 1
+  m_CustomReticle: {fileID: 0}
+  m_AllowGazeInteraction: 0
+  m_AllowGazeSelect: 0
+  m_OverrideGazeTimeToSelect: 0
+  m_GazeTimeToSelect: 0.5
+  m_OverrideTimeToAutoDeselectGaze: 0
+  m_TimeToAutoDeselectGaze: 3
+  m_AllowGazeAssistance: 0
+  m_FirstHoverEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_LastHoverExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_HoverEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_HoverExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FirstSelectEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_LastSelectExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_SelectEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_SelectExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FirstFocusEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_LastFocusExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FocusEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FocusExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Activated:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Deactivated:
+    m_PersistentCalls:
+      m_Calls: []
+  m_StartingHoverFilters: []
+  m_StartingSelectFilters: []
+  m_StartingInteractionStrengthFilters: []
+--- !u!114 &4223096897661432800
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5874630309010930463}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6eb6ff6f6b2a4b49a88a0fd03f89fd1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AnomalyIcon
+  title: Hurricane Milton
+  description: Hurricane Milton pictured as a category 4 storm in the Gulf of Mexico
+    nearing the coast of Florida in this photograph from the International Space
+    Station as it orbited 258 miles above.
+  anomalyImgs:
+  - {fileID: 21300000, guid: 7605d6e6a6b8442dd8ff734e6a8c232f, type: 3}
+--- !u!114 &7440763490360349266
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5874630309010930463}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1c94a33db14d48378f0389611f43fb4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AnomalyIconInteractor
+  uiManager: {fileID: 0}
+  simpleInteractable: {fileID: 9092636659042864876}
